@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @samarnq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-samarnq/samarnq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1for(var x = 5; x < 8; x+=2)
+2{
+3    console.log(x);
+4}
